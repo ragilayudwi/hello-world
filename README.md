@@ -1,2 +1,4 @@
 # hello-world
-test repository
+
+Hello !
+This is my frist time i use GitHub.
